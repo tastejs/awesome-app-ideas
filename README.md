@@ -46,3 +46,7 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Weather app
 * Fantasy football
 * Snap and share client (Camera app, share to Drive)
+* Time Table App
+* Sticky App
+* Stack Exchange Client
+* Docker Client
