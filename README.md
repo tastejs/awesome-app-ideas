@@ -74,4 +74,8 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Vine
 * eReader
 * Planning Poker Cards
+* Time Table App
+* Sticky App
+* Stack Exchange Client
+* Docker Client
 
