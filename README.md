@@ -8,6 +8,7 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Benjamin Franklin's 13 Virtues13 virtues app
 * Book search
 * BTN workouts app
+* Calculator
 * Calendar app
 * Calorie Counter (Weight loss) app
 * Client-side photo editor (VSCO/Darkroom app)
@@ -34,6 +35,7 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Guitar tuner
 * Guitar/stringed instrument chord finder
 * Gym Keeper (Sets / Rep Counter)
+* Hangman
 * House search app targeting family needs
 * Instagram client
 * Kanban board
@@ -65,12 +67,14 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Stack Exchange Client
 * Sticky App
 * Stock Portfolio Tracker
+* Tic-tac-toe
 * Time Table App
 * Timetable app 
 * ToDo List (Classic)
 * Travel app
 * Tunes / Music finder / player
 * Twitter client
+* Typing test
 * Vine
 * Weather app
 * What’s near me? (Google Maps API)
