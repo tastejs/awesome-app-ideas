@@ -30,16 +30,10 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Nearby (transport, cafes, anything)
 * File sharing app
 * Instagram client
-  That lets you share some pics and add effects to them using canvas and then save to file-system or upload to cloud. Also sorting.
 * Code search
-  * Group duplicates?
-  * Improve project discovery
 * Note taking app
-  * Could use the SimpleNote API
-  * Live saving in localStorage
 * What’s near me? (Google Maps API)
 * Cloud audio player
-  * A seamless interface to SoundCloud, Grooveshark, and other web based players
 * Collaborative Etherpad Lite like Markdown editor
 * News reader (e.g RSS reader)
 * Book search
