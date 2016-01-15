@@ -50,3 +50,38 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Sticky App
 * Stack Exchange Client
 * Docker Client
+* National Rail
+* Runkeeper
+* Podcast player
+* Photo booth
+* Movie Reviews
+* Contacts manager
+* Pedometer
+* Guitar Tabs
+* Diet tracker
+* Battery status monitor
+* Connectivity checker
+* Countdown timer / Stop watch
+* Dedicated Compass
+* Spirit Level
+* QR Code Scanner
+* Flashlight
+* Photo Cropper
+* ToDo List (Classic)
+* Gym Keeper (Sets / Rep Counter)
+* WhatsApp Style Messaging App
+* Kanban board
+* Pomodoro App
+* Guitar/stringed instrument chord finder
+* Stock Portfolio Tracker
+* Working parents dinner app
+* House search app targeting family needs
+* 13 virtues app
+* BTN workouts app
+* Kids' milestones tracker
+* Google/Chrome/Android developer video search app
+* Doc starter kit
+* Vine
+* eReader
+* Planning Poker Cards
+
