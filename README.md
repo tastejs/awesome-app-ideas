@@ -5,7 +5,7 @@
 Here are some ideas for sample projects you could create with a framework (or library) to demonstrate how they approach solving specific problems.
 
 * Battery status monitor
-* Benjamin Franklin's 13 Virtues13 virtues app
+* Benjamin Franklin's 13 Virtues app
 * Book search
 * BTN workouts app
 * Calculator
