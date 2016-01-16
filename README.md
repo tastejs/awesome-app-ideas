@@ -68,7 +68,6 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Sticky App
 * Stock Portfolio Tracker
 * Tic-tac-toe
-* Time Table App
 * Timetable app 
 * ToDo List (Classic)
 * Travel app
