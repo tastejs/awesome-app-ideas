@@ -74,6 +74,7 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Tunes / Music finder / player
 * Twitter client
 * Typing test
+* URL shortener
 * Vine
 * Weather app
 * What’s near me? (Google Maps API)
