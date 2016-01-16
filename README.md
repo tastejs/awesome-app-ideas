@@ -5,7 +5,7 @@
 Here are some ideas for sample projects you could create with a framework (or library) to demonstrate how they approach solving specific problems.
 
 * Battery status monitor
-* Benjamin Franklin's 13 Virtues13 virtues app
+* Benjamin Franklin's 13 Virtues app
 * Book search
 * BTN workouts app
 * Calculator
@@ -15,25 +15,6 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Cloud audio player
 * Code search
 * Collaborative Etherpad Lite like Markdown editor
-* News reader (e.g RSS reader)
-* Book search
-* Weather app
-* Fantasy football
-* Snap and share client (Camera app, share to Drive)
-* Timetable App
-* Sticky App
-* Stack Exchange Client
-* Docker Client
-* National Rail
-* Runkeeper
-* Podcast player
-* Photo booth
-* Movie Reviews
-* Contacts manager
-* Pedometer
-* Guitar Tabs
-* Diet tracker
-* Battery status monitor
 * Connectivity checker
 * Contacts manager
 * Countdown timer / Stop watch
@@ -87,7 +68,6 @@ Here are some ideas for sample projects you could create with a framework (or li
 * Sticky App
 * Stock Portfolio Tracker
 * Tic-tac-toe
-* Time Table App
 * Timetable app 
 * ToDo List (Classic)
 * Travel app
