@@ -9,6 +9,8 @@
 - Calculator
 - Calendar app
 - Calorie Counter (Weight loss) app
+- Chat bot
+- Chatroom
 - Client-side photo editor (VSCO/Darkroom app)
 - Cloud audio player
 - Code search
@@ -33,11 +35,13 @@
 - Guitar tuner
 - Guitar/stringed instrument chord finder
 - Gym Keeper (Sets / Rep Counter)
+- Hacker News API/search client
 - Hangman
 - House search app targeting family needs
 - Instagram client
 - Kanban board
 - Kids' milestones tracker
+- Mail client
 - Movie Reviews
 - Movies / IMDB search
 - National Rail
@@ -52,8 +56,10 @@
 - Planning Poker Cards
 - Podcast player
 - Pomodoro App
+- Product Hunt API/search client
 - QR Code Scanner
 - Quiz/trivia app
+- Quotes app
 - Recipes app
 - Reddit client
 - Reminders app
@@ -69,6 +75,7 @@
 - Timetable app
 - ToDo List (Classic)
 - Travel app
+- Trello API client
 - Tunes / Music finder / player
 - Twitter client
 - Typing test
