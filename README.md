@@ -2,6 +2,11 @@
 
 > Ideas for sample projects you could create with a framework to demonstrate its approach to solving specific problems
 
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
+
+## Ideas
+
 - Battery status monitor
 - Benjamin Franklin's 13 Virtues app
 - Book search
