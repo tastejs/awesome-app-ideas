@@ -35,6 +35,7 @@
 - Gallery or Portfolio app
 - Gift app (find gifts for friends)
 - GitHub API client
+- Github notifications app
 - Google/Chrome/Android developer video search app
 - Guitar Tabs
 - Guitar tuner
