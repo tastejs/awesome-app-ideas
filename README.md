@@ -7,6 +7,7 @@
 
 ## Ideas
 
+- Alarm app - add, modify, delete alarm events, set alarm tone, snooze time.
 - Battery status monitor
 - Benjamin Franklin's 13 Virtues app
 - Book search
