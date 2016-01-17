@@ -27,6 +27,7 @@
 - Dedicated Compass
 - Diet tracker
 - Docker Client
+- E-Commerce Buy Side / Sell Side
 - Employee manager
 - eReader
 - Fantasy football
