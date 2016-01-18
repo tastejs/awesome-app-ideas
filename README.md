@@ -20,6 +20,7 @@
 - Cloud audio player
 - Code search
 - Collaborative Etherpad Lite like Markdown editor
+- Collaborative Web map
 - Connectivity checker
 - Contacts manager
 - Countdown timer / Stop watch
