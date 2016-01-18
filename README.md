@@ -93,7 +93,7 @@
 - Wine cellar (wine manager)
 - Working parents dinner app
 - YouTube API/search client
-
+- Game bot
 
 ## License
 
