@@ -30,6 +30,7 @@
 - Employee manager
 - eReader
 - Fantasy football
+- Festival Manager
 - File sharing app
 - Flashlight
 - Gallery or Portfolio app
