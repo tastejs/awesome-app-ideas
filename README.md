@@ -93,7 +93,7 @@
 - Wine cellar (wine manager)
 - Working parents dinner app
 - YouTube API/search client
-
+- Game Bot - Create a bot for game (Ex: Mario, Plants vs Zombies, Clash of Clan...bla, bla..), extenable with lua script
 
 ## License
 
