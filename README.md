@@ -59,6 +59,7 @@
 - Photo booth
 - Photo Cropper
 - Photo sharing app
+- Pizza order composer
 - Planning Poker Cards
 - Podcast player
 - Pomodoro App
