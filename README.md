@@ -40,6 +40,7 @@
 ### Countdown timer / Stop watch
 
 ### Dashboard
+This app should resemble an HR type dashboard where a user can login and view information about the company. It can have an Employee section that shows the information of that employee like Name, Address, Phone, Email, position in company, how long they have been employeed, start date, vacation time remaning etc. The app should also have some sort of project tracking. You could include in some graphs and charts that show company progress year over year. One more thing would be to add a place for the HR person to make a company wide annoucement that would show up on the company intranet.
 
 ### Dedicated Compass
 
