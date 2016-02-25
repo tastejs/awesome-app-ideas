@@ -169,6 +169,7 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 ### Typing test
 
 ### URL shortener
+This will take in a full url (https://foo.bar) and return it in a string that contains 8 alpha-numerica (A-Z, 0-9) that will represent a shorten url. You should put in gaurd functions to prevent any kind of SQL injection type attack. 
 
 ### Vine
 
