@@ -40,7 +40,8 @@
 ### Countdown timer / Stop watch
 
 ### Dashboard
-This app should resemble an HR type dashboard where a user can login and view information about the company. It can have an Employee section that shows the information of that employee like Name, Address, Phone, Email, position in company, how long they have been employeed, start date, vacation time remaning etc. The app should also have some sort of project tracking. You could include in some graphs and charts that show company progress year over year. One more thing would be to add a place for the HR person to make a company wide annoucement that would show up on the company intranet.
+
+This app should resemble an HR type dashboard where a user can login and view information about the company. It can have an Employee section that shows the information of that employee like Name, Address, Phone, Email, position in company, how long they have been employed, start date, vacation time remaining etc. The app should also have some sort of project tracking. You could include in some graphs and charts that show company progress year over year. One more thing would be to add a place for the HR person to make a company wide announcement that would show up on the company intranet.
 
 ### Dedicated Compass
 
@@ -169,7 +170,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 ### Typing test
 
 ### URL shortener
-This will take in a full url (https://foo.bar) and return it in a string that contains 8 alpha-numerica (A-Z, 0-9) that will represent a shorten url. You should put in gaurd functions to prevent any kind of SQL injection type attack. 
+
+This will take in a full URL (https://foo.bar) and return it in a string that contains 8 alpha-numeric (A-Z, 0-9) that will represent a shorten URL. You should put in guard functions to prevent any kind of SQL injection type attack.
 
 ### Vine
 
@@ -184,7 +186,9 @@ This will take in a full url (https://foo.bar) and return it in a string that co
 ### Working parents dinner app
 
 ### YouTube API/search client
+
 Using the YouTube API, your app should be able to take in a search string and return the videos for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if I'm not being picky and just want to listen to David Bowie, it should return any number of results that pertain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
+
 
 ## License
 
