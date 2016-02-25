@@ -184,7 +184,7 @@ This will take in a full url (https://foo.bar) and return it in a string that co
 ### Working parents dinner app
 
 ### YouTube API/search client
-
+Using the Youtube API, your app should be able to take in a search string and return the video(s) for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if Im not being picky and just want to listen to David Bowie, it should return any number of results that pretain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
 
 ## License
 
