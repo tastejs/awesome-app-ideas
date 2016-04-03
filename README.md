@@ -17,6 +17,8 @@
 
 ### Calculator
 
+### Running Calculator - Time, Distance, Pace for your next race
+
 ### Calendar app
 
 ### Calorie Counter (Weight loss) app
