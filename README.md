@@ -17,6 +17,8 @@
 
 ### Calculator
 
+### Running Calculator - Time, Distance, Pace for your next race
+
 ### Calendar app
 
 ### Calorie Counter (Weight loss) app
@@ -32,6 +34,11 @@
 ### Code search
 
 ### Collaborative Etherpad Lite like Markdown editor
+
+### Conference app
+
+This web app should give a functionality both for the conference organizer and the participates. 
+Main features: information on tracks/talks (speaker bio, links to slides), schedule with push notification on the talks that the user choose. 
 
 ### Connectivity checker
 
