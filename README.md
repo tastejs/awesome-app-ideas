@@ -60,6 +60,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### eReader
 
+### FB Messenger Web App
+
+Apparently, FB (Facebook®) is forcing its *mobile* users to download the Messenger native app, so, given that assumption + that they have a public API (https://developers.facebook.com/docs/messenger-platform/send-api-reference/text-message), it would be great to create a Messenger clone (like web.whatsapp.com) to be able to chat between FB users on mobile but entirely via web browser. Obviously, the code will be open.
+
 ### Fantasy football
 
 ### File sharing app
