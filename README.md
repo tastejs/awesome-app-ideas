@@ -7,6 +7,8 @@
 
 ## Ideas
 
+### Arcade Shooter (Galaga etc)
+
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
@@ -37,8 +39,8 @@
 
 ### Conference app
 
-This web app should give a functionality both for the conference organizer and the participates. 
-Main features: information on tracks/talks (speaker bio, links to slides), schedule with push notification on the talks that the user choose. 
+This web app should give a functionality both for the conference organizer and the participates.
+Main features: information on tracks/talks (speaker bio, links to slides), schedule with push notification on the talks that the user choose.
 
 ### Connectivity checker
 
@@ -95,6 +97,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 ### Kanban board
 
 ### Kids' milestones tracker
+
+### Language Translator (think Google Translate)
 
 ### Mail client
 
