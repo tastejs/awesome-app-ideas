@@ -13,6 +13,10 @@
 
 ### Benjamin Franklin's 13 Virtues app
 
+### Bet app
+
+Gives possibility to bet on any kind of sport games. To manage results app can use some open API's like [football-data.org](http://api.football-data.org/index). Each kind of sport games has it own table of leaders. People can bet either with money or without. Table of leaders will have some marks for people who using money and for people who not. When season is finished all scores will be reset. 
+
 ### Book search
 
 ### BTN workouts app
