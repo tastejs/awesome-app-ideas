@@ -7,6 +7,8 @@
 
 ## Ideas
 
+### Ideas Sharing app
+
 ### Arcade Shooter (Galaga etc)
 
 ### Battery status monitor
