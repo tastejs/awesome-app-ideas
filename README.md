@@ -19,6 +19,11 @@
 
 ### Calculator
 
+A simple Calculator program with Standard functions or with Scientific functions.  
+Basic Arithmetic Operations -> Add, Subtract, Multiply, Divide  
+Memory Operations -> Save to Memory, Recall from Memory, Clear Memory, Operations History  
+Other Operations -> Clear Data (Clears the input area and data from memory) *
+
 ### Running Calculator - Time, Distance, Pace for your next race
 
 ### Calendar app
