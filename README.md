@@ -1,7 +1,6 @@
 # awesome-app-ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Ideas for sample projects you could create with a framework to demonstrate its approach to solving specific problems
-
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 
@@ -12,7 +11,6 @@
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
-
 ### Book search
 
 ### BTN workouts app
@@ -22,7 +20,7 @@
 A simple Calculator program with Standard functions or with Scientific functions.  
 Basic Arithmetic Operations -> Add, Subtract, Multiply, Divide  
 Memory Operations -> Save to Memory, Recall from Memory, Clear Memory, Operations History  
-Other Operations -> Clear Data (Clears the input area and data from memory) *
+Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Running Calculator - Time, Distance, Pace for your next race
 
