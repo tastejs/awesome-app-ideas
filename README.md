@@ -68,6 +68,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Flashlight
 
+### Flight Search app open source
+
 ### Gallery or Portfolio app
 
 ### Gift app (find gifts for friends)
