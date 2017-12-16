@@ -164,6 +164,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Stock Portfolio Tracker
 
+### Surf App
+
+Let the user register his location and then give reports showing which beaches are the best to surf in the next days. It's a good oportunity to use weather API's for something more specific.
+
 ### Tic-tac-toe
 
 ### Timetable app
