@@ -91,6 +91,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Hacker News API/search client
 
+### Hand Gesture Detector/Translator
+
+An app that will use device camera as input, detect a person's gestures & movements and translate them into meaningful work i.e. perform some actions based on detected hand gestures. Best use case would be using it for teaching new things to toddlers with sounds and animations. Also, it can make understanding and interaction easier with deaf-dumb people.
+
 ### Hangman
 
 ### House search app targeting family needs
