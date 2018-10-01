@@ -65,6 +65,9 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### eReader
 
+### Fake news detector
+This app should be like a social messaging app where people will send the news articles to the app. The app should scan through reliable sources and inform the user whether the news is fake or not.
+
 ### Fantasy football
 
 ### File sharing app
