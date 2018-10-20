@@ -165,6 +165,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Spirit Level
 
+### Spotify Spy
+
+Finds near spotify users and track what they are listening to
+
 ### Stack Exchange Client
 
 ### Sticky App
