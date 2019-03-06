@@ -32,6 +32,8 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Chatroom
 
+### Citation Machine (In Your Own Language)
+
 ### Client-side photo editor (VSCO/Darkroom app)
 
 ### Cloud audio player
