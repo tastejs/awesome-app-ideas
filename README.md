@@ -155,6 +155,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Reminders app
 
+### REST API Generator
+
+Interface that generates REST API calls based on fields filled in from a form. Output could be formed for use in various languages (i.e. Python, Java, etc.) or for tools like curl or Postman. 
+
 ### Runkeeper
 
 ### Simple game (e.g cards or LetterPress)
