@@ -169,7 +169,7 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Stealth Game (like Metal Gear or Mark of the Ninja)
 
-A stealth-based game for mobile devices. Could be top-down, or a side view. Has been done a few times before, but a more recent take on the idea could turn out be very fun.
+A stealth-based game for mobile devices. Could be top-down or side view. Has been done a few times before, but a more recent take on the idea could be very enjoyable.
 
 ### Sticky App
 
