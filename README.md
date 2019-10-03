@@ -155,6 +155,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Reminders app
 
+### Restaurant Matching app
+
+Tinder for deciding what restaurant you and your friends should go to eat at. You each swipe left or right on 10-20 photos of food and the app shows which restaurant was the most picked. In the event of a tie, there would be a voting component. 
+
 ### Runkeeper
 
 ### Simple game (e.g cards or LetterPress)
@@ -204,7 +208,7 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 ### WhatsApp Style Messaging App
 
 ### Wine cellar (wine manager)
-A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well. 
+A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well.
 
 ### Working parents dinner app
 
