@@ -70,6 +70,7 @@ This app should resemble an HR type dashboard where a user can login and view in
 ### File sharing app
 
 ### Flashlight
+A flashlight app that allows users to display the flashlight differently. For example, an SOS signal or maybe a repeated signal with a given interval. Furthermore, custom gestures to activate the flashlight
 
 ### Gallery or Portfolio app
 
