@@ -177,6 +177,7 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 Let the user register his location and then give reports showing which beaches are the best to surf in the next days. It's a good oportunity to use weather API's for something more specific.
 
 ### Tic-tac-toe
+A tic tac toe game with different levels of AI. Users can also customize what they want for the X's and O's. If possible, a saved game whereby the AI gets better overtime, being able to predict the user's next move
 
 ### Timetable app
 
