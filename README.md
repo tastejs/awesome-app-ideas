@@ -15,6 +15,14 @@
 
 ### BTN workouts app
 
+### Budget Tracking App
+
+A simple app to track one's monthly budget, spendings and hence motivate them to save money more wisely and effectively.
+USPs:
+
+1. It can have a separate page that graphically represents one's spending over longer periods of time
+2. A categorical display of spendings (eg: electronics, fuel, rent, food, etc.) which helps organise his/her spending and know one's expenses trend.
+
 ### Calculator
 
 A simple Calculator program with Standard functions or with Scientific functions.  
