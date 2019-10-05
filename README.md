@@ -42,8 +42,8 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Conference app
 
-This web app should give a functionality both for the conference organizer and the participates.
-Main features: information on tracks/talks (speaker bio, links to slides), schedule with push notification on the talks that the user choose.
+This web/mobile app should give a functionality both for the conference organizer and the participates.
+Main features: information on tracks/talks (speaker bio, links to slides), schedule with push notification on the talks that the user choose. Group Chat for Participates.
 
 ### Connectivity checker
 
