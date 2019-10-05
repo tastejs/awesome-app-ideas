@@ -151,6 +151,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Recipes app
 
+### Age estimation app (by fingerprint or face recognition)
+
 ### Reddit client
 
 ### Reminders app
