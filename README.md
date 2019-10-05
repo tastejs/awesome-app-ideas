@@ -42,8 +42,8 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Conference app
 
-This web app should give a functionality both for the conference organizer and the participates.
-Main features: information on tracks/talks (speaker bio, links to slides), schedule with push notification on the talks that the user choose.
+This web/mobile app should give a functionality both for the conference organizer and the participates.
+Main features: information on tracks/talks (speaker bio, links to slides), schedule with push notification on the talks that the user choose. Group Chat for Participates.
 
 ### Connectivity checker
 
@@ -212,6 +212,9 @@ A manager at a high end restaurant needs an app to help manage the restaurants c
 
 Using the YouTube API, your app should be able to take in a search string and return the videos for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if I'm not being picky and just want to listen to David Bowie, it should return any number of results that pertain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
 
+### Stock Tracker
+
+Using API from stock provider, get the most latest information. Could setup a watch list, bind your email account. 
 
 ## License
 
