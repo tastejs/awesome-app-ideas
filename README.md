@@ -131,6 +131,12 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Photo sharing app
 
+There are many ways to share photos out there but nobody seems to have created an app that lets friends share raw, unedited photos from a group setting. I.e. you and I attend a concert and each shoot 50 photos. Now there are 100 unique photos... I want your 50, you want my 50, so we can both end up with a complete set of photos from the event. If I email/message/Airdrop you my 50 photos, you might edit/improve some of them, but now I need you to send those better versions of my photos back to me, and I'll have duplicate versions of the same photo, etc. It's just not effective/scalable.
+
+There needs to be a way to share photos between two people that doesn't create duplicates, tracks revisions/versions, lets anyone in the sharing group edit/delete them, etc.
+
+(Ironically, the model I'm describing is very much how Github works, though of course Github isn't really usable for non-technical people. But it would be cool if someone made an app for photo sharing to do what I'm describing, but built it on top of git technology.)
+
 ### Pizza order composer
 
 Stores people's preferences of toppings, and maybe crust styles too, i.e., what they like, love, dislike, hate, or are neutral to. (Alternate idea: store only the device owner's preferences, and several instances can communicate with each other to collaborate, filling in other people on an ad-hoc basis.) To put together an order, say who's there and how hungry. It should put together an order that will feed everybody, maximize happiness with the toppings, and minimize price. E.g., "1 medium half-pepperoni half-mushroom plus 2 large Hawaiians". It could get prices, and maybe locations, from assorted online sources TBD, or just make assumptions.
