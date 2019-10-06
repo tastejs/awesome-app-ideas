@@ -8,6 +8,10 @@
 
 ### Arcade Shooter (Galaga etc)
 
+### Audio to Audio Translator
+
+An application which integrates the audio to text conversion, text to text translation, and text to audio conversion capabilities of existing applications. Many applications like Google Translate have these features as independent functionalities, however, an application that has all three features is more practical for use in daily life.
+
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
