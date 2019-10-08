@@ -8,6 +8,10 @@
 
 ### Arcade Shooter (Galaga etc)
 
+### Barcode Scanner For Recipes
+
+Camera app that can scan a UPC code on a product and pull up a list of recipes using that ingredient.
+
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
