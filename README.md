@@ -10,8 +10,12 @@
 
 ### Battery status monitor
 
+Monitors live usage of battery while highlighting which apps and activities consume the most power.
+
+
 ### Benjamin Franklin's 13 Virtues app
 ### Book search
+A one-stop engine for find a book in shops, online and in libraries.
 
 ### BTN workouts app
 
@@ -25,6 +29,7 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 ### Running Calculator - Time, Distance, Pace for your next race
 
 ### Calendar app
+Integrated across all platforms and operating systems. Easy to use. Migrate from email.
 
 ### Calorie Counter (Weight loss) app
 
