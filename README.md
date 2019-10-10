@@ -175,6 +175,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 Let the user register his location and then give reports showing which beaches are the best to surf in the next days. It's a good oportunity to use weather API's for something more specific.
 
+###  Tax Invoicing App - Calculate your tax based on your income and makes sure that you pay it in time.
+
 ### Tic-tac-toe
 
 ### Timetable app
