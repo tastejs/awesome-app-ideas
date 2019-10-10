@@ -17,9 +17,9 @@
 
 ### Calculator
 
-A simple Calculator program with Standard functions or with Scientific functions.  
-Basic Arithmetic Operations -> Add, Subtract, Multiply, Divide  
-Memory Operations -> Save to Memory, Recall from Memory, Clear Memory, Operations History  
+A simple Calculator program with Standard functions or with Scientific functions.
+Basic Arithmetic Operations -> Add, Subtract, Multiply, Divide
+Memory Operations -> Save to Memory, Recall from Memory, Clear Memory, Operations History
 Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Running Calculator - Time, Distance, Pace for your next race
@@ -137,6 +137,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Planning Poker Cards
 
+### Playlist Tinder
+
+You have a swipe style dating app, but instead of a picture you get 4 songs that a person picks that best represents their musical taste/personality. If you swipe right on the playlist, you see the person's actual profile, which you can reject or accept.
+
 ### Podcast player
 
 ### Pomodoro App
@@ -204,7 +208,7 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 ### WhatsApp Style Messaging App
 
 ### Wine cellar (wine manager)
-A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well. 
+A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well.
 
 ### Working parents dinner app
 
