@@ -57,6 +57,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Dedicated Compass
 
+### Diary App 
+
+This app should allow you to add pictures via a camera mode and also a text input mode that allows for the user to record important events/happenings!
+
 ### Diet tracker
 
 ### Docker Client
