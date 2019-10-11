@@ -1,4 +1,4 @@
-# awesome-app-ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# awesome-app-ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Ideas for sample projects you could create with a framework to demonstrate its approach to solving specific problems
 *Please read the [contribution guidelines](contributing.md) before contributing.*
@@ -21,6 +21,7 @@ A simple Calculator program with Standard functions or with Scientific functions
 Basic Arithmetic Operations -> Add, Subtract, Multiply, Divide  
 Memory Operations -> Save to Memory, Recall from Memory, Clear Memory, Operations History  
 Other Operations -> Clear Data (Clears the input area and data from memory)
+added:Large numerous functions like equation solver,matrix solver,trigonometirc funtions,etch prominent nowdays in engineering.
 
 ### Running Calculator - Time, Distance, Pace for your next race
 
@@ -122,6 +123,18 @@ An app that will use device camera as input, detect a person's gestures & moveme
 ### Note taking app
 
 ### Offline book reader
+
+### MapOfYou(or something like it) app
+    
+    Just like open source,can be used to create a map of a locality by individual contributions of people living in the locality.It can have pics of locality,a schematic map with not only roads but gully and vallies,etc.What locality is referred is not local colony or else but is actually a whole city and its interior places.
+    It can have all the information of local shops(with their timings),travel places(with pics), travel facilities, and a lot more.It can have a much wider range of details inside a city which can be joined to create a much larger map of a whole country or continent. 
+
+### Some College app
+    
+    Can be made into two parts:one internal and other one as external.
+    Internal application can act like window of college in which a student is studying.He can know about his college,which clubs and sports facilites it offer,working days and holiday structure,placements,skills most prominent in his field of study,but much more important an interaction app through which he can formally interact with the professors and seniors as well as admins of the college.A student can know about the events that are going to held in the college in upcoming years,can also make new events.
+    External application to make communication possible between different colleges to know about each other.What events are being held,what are the opportunities that can be availed as workshops,internship,student_exchange programs,etc.The research opportunities incase is somebody is interested in it.It can also help to organise global events and can help in collabaration.
+    
 
 ### Pedometer
 
