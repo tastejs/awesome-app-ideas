@@ -171,6 +171,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Stock Portfolio Tracker
 
+### Sunscreen Application Reminder Application
+
+App that reminds the user to reapply sunscreen every 2 hours when outdoors.
+
 ### Surf App
 
 Let the user register his location and then give reports showing which beaches are the best to surf in the next days. It's a good oportunity to use weather API's for something more specific.
@@ -204,7 +208,7 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 ### WhatsApp Style Messaging App
 
 ### Wine cellar (wine manager)
-A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well. 
+A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well.
 
 ### Working parents dinner app
 
