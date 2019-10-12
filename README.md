@@ -123,6 +123,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Offline book reader
 
+### PC Game Optimizer 
+
+This is an app that will allow gamers to optimize their PC gaming experience with limited hardware resources. It downscales polygon counts and reduces the resolution of in game textures to meet the players PC specifications, while maintaining the render resolution on the system user interface, and heads up display.
+
 ### Pedometer
 
 ### Photo booth
