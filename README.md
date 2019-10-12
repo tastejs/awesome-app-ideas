@@ -173,7 +173,7 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Sunscreen Application Reminder Application
 
-App that reminds the user to reapply sunscreen every 2 hours when outdoors.
+App that reminds the user to reapply sunscreen every two hours when outdoors.
 
 ### Surf App
 
