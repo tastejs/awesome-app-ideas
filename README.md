@@ -101,6 +101,9 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Instagram client
 
+### Jewelry Try 
+an app that can be used to virtually try on jewelry like filters which already exist on snapchat and instagram and therefore can be used to reach an huge audience
+
 ### Kanban board
 
 ### Kids' milestones tracker
