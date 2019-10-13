@@ -32,6 +32,9 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Chatroom
 
+### Chore Tracker
+Create application to track household chore duties
+
 ### Client-side photo editor (VSCO/Darkroom app)
 
 ### Cloud audio player
@@ -196,6 +199,8 @@ Let the user register his location and then give reports showing which beaches a
 This will take in a full URL (https://foo.bar) and return it in a string that contains 8 alpha-numeric (A-Z, 0-9) that will represent a shorten URL. You should put in guard functions to prevent any kind of SQL injection type attack.
 
 ### Vine
+
+### Vacation Planner
 
 ### Weather app
 
