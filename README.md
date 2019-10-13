@@ -15,6 +15,8 @@
 
 ### BTN workouts app
 
+### Betting app
+
 ### Calculator
 
 A simple Calculator program with Standard functions or with Scientific functions.  
@@ -196,6 +198,8 @@ Let the user register his location and then give reports showing which beaches a
 This will take in a full URL (https://foo.bar) and return it in a string that contains 8 alpha-numeric (A-Z, 0-9) that will represent a shorten URL. You should put in guard functions to prevent any kind of SQL injection type attack.
 
 ### Vine
+
+### Vacation Planner
 
 ### Weather app
 
