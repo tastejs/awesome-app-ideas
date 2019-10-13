@@ -15,6 +15,8 @@
 
 ### BTN workouts app
 
+### Betting app
+
 ### Calculator
 
 A simple Calculator program with Standard functions or with Scientific functions.  
