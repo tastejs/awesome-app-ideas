@@ -212,6 +212,9 @@ A manager at a high end restaurant needs an app to help manage the restaurants c
 
 Using the YouTube API, your app should be able to take in a search string and return the videos for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if I'm not being picky and just want to listen to David Bowie, it should return any number of results that pertain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
 
+### Docker Image Vulnerability Scanner
+
+An interactive tool for private docker registries to search and scan for vulnerabilities in the container image. This tool must rank the threat based on how much damage it can cause to the machine.
 
 ## License
 
