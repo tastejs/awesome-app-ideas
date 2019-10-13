@@ -179,6 +179,8 @@ Let the user register his location and then give reports showing which beaches a
 
 ### Timetable app
 
+### Tip Calculator
+
 ### ToDo List (Classic)
 
 ### Travel app
