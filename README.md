@@ -63,6 +63,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Employee manager
 
+### E-Commerce app
+
 ### eReader
 
 ### Fantasy football
@@ -196,6 +198,8 @@ Let the user register his location and then give reports showing which beaches a
 This will take in a full URL (https://foo.bar) and return it in a string that contains 8 alpha-numeric (A-Z, 0-9) that will represent a shorten URL. You should put in guard functions to prevent any kind of SQL injection type attack.
 
 ### Vine
+
+### Vacation Planner
 
 ### Weather app
 
