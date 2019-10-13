@@ -197,6 +197,8 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 
 ### Vine
 
+### Vacation Planner
+
 ### Weather app
 
 ### What’s near me? (Google Maps API)
