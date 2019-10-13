@@ -32,6 +32,9 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Chatroom
 
+### Chore Tracker
+Create application to track household chore duties
+
 ### Client-side photo editor (VSCO/Darkroom app)
 
 ### Cloud audio player
