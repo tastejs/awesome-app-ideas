@@ -101,6 +101,9 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Instagram client
 
+### Is the Ice Cream Machine Broken?
+An app that will let users report/know if a fast food's icecream machine is broken... kind of like Waze's user reported hazards/accidents. 
+
 ### Kanban board
 
 ### Kids' milestones tracker
@@ -156,6 +159,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 ### Reminders app
 
 ### Runkeeper
+
+### Shopping Buddy
+
+Report to users about varying prices of items for users. Allows the user to see prices all in one place to make informed decisions on how to save time, gas, and money. 
 
 ### Simple game (e.g cards or LetterPress)
 
