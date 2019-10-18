@@ -75,6 +75,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Gift app (find gifts for friends)
 
+### Giftcard sender (buy giftcards from one place and send to friends)
+
 ### GitHub API client
 
 ### Github notifications app
