@@ -109,6 +109,9 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Mail client
 
+### Money Tracker
+Monitor debit and credt ,shows monthly savings and expenses.
+
 ### Movie Reviews
 
 ### Movies / IMDB search
