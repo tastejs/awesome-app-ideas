@@ -40,6 +40,8 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Collaborative Etherpad Lite like Markdown editor
 
+### Collaborative work division app like slack
+
 ### Conference app
 
 This web app should give a functionality both for the conference organizer and the participates.
