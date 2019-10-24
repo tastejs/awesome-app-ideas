@@ -141,6 +141,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Pomodoro App
 
+### Price comparison App
+
 ### Product Hunt API/search client
 
 ### QR Code Scanner
