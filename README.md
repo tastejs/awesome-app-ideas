@@ -159,6 +159,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Simple game (e.g cards or LetterPress)
 
+### Slackerize
+
+An application that utilizes AI to summarize the myriad conversations happening in your Slack channels. Unlike email, Slack conversations have no individual subject lines. Each channel just has never-ending chatter. So someone should create an application that summarizes Slack conversations in a more digestable UI (highlighting converstations re: personalized interests), so that users can more easily identify Slack conversations they should read and participate in.
+
 ### Snap and share client (Camera app, share to Drive)
 
 ### Speed Test app
