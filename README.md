@@ -69,6 +69,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### File sharing app
 
+### Find my key
+
+This app should list all possible places where my keys could be. If I find my keys on new place I will add this to the app.
+
 ### Flashlight
 
 ### Gallery or Portfolio app
