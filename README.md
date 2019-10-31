@@ -15,6 +15,10 @@
 
 ### BTN workouts app
 
+### Buddy Alarm
+
+This alarm will use your couple face and sound to wake you up.
+
 ### Calculator
 
 A simple Calculator program with Standard functions or with Scientific functions.  
