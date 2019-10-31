@@ -159,6 +159,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Simple game (e.g cards or LetterPress)
 
+### Solitare
+
 ### Snap and share client (Camera app, share to Drive)
 
 ### Speed Test app
