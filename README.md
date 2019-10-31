@@ -149,6 +149,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Quotes app
 
+### Race Finder
+
 ### Recipes app
 
 ### Reddit client
