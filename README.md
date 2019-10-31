@@ -11,6 +11,7 @@
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
+
 ### Book search
 
 ### BTN workouts app
@@ -37,6 +38,8 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 ### Cloud audio player
 
 ### Code search
+
+### Code text editor
 
 ### Collaborative Etherpad Lite like Markdown editor
 
