@@ -113,6 +113,8 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Movies / IMDB search
 
+### Money Manager
+
 ### National Rail
 
 ### Nearby (transport, cafes, anything)
