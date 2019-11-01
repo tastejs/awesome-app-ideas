@@ -155,6 +155,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Reminders app
 
+### Root Checker
+
 ### Runkeeper
 
 ### Simple game (e.g cards or LetterPress)
