@@ -69,6 +69,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### File sharing app
 
+### Fitness Assistant
+
 ### Flashlight
 
 ### Gallery or Portfolio app
