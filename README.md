@@ -5,7 +5,7 @@
 
 
 ## Ideas
-
+## Game is god 
 ### Arcade Shooter (Galaga etc)
 
 ### Battery status monitor
