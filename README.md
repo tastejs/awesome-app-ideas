@@ -73,6 +73,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Gallery or Portfolio app
 
+### Garbage alert
+
+With the help of sensors, the garbage bin can communicate to the city administration that the garbage is full and is ready to be cleared. So that they can clear the filled bins and in turn save a lot of effort.
+
 ### Gift app (find gifts for friends)
 
 ### GitHub API client
