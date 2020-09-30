@@ -6,6 +6,12 @@
 
 ## Ideas
 
+### Macros (for phones)
+
+An application that lets you scrpt and make shortcuts
+The macro applications on playstore are bloated and don't work so
+Something like this would be of great help
+
 ### Arcade Shooter (Galaga etc)
 
 ### Battery status monitor
