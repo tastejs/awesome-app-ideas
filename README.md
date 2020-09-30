@@ -167,6 +167,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Stack Exchange Client
 
+### Startup Lazy List Generator
+
+A super simple app made from the documentation of Flutter for generating a lazy list of startup names.
+
 ### Sticky App
 
 ### Stock Portfolio Tracker
@@ -211,7 +215,6 @@ A manager at a high end restaurant needs an app to help manage the restaurants c
 ### YouTube API/search client
 
 Using the YouTube API, your app should be able to take in a search string and return the videos for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if I'm not being picky and just want to listen to David Bowie, it should return any number of results that pertain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
-
 
 ## License
 
