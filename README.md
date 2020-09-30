@@ -207,6 +207,8 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well. 
 
 ### Working parents dinner app
+### Exercise checker
+The craze of fitness is very high but people with less resources sometimes do exercise in a wrong manner which can be very harmful. This app will monitor their position and tell them their mistakes.
 
 ### YouTube API/search client
 
