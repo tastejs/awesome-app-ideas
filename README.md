@@ -8,6 +8,10 @@
 
 ### Arcade Shooter (Galaga etc)
 
+### Augmented Reality app that helps someone design their room
+
+ An AR app helps you style your room by permitting you to use your camera and place 3D models of various items and furniture in the virtual space on your phone and see how it would look. The app can even partner with various shopping sites and facilitate user to order it directly from the app.
+
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
