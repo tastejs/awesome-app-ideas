@@ -61,6 +61,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Docker Client
 
+### Drunk Dial Quiz App
+
+This app would ask you to solve a complex problem to know whether you should call someone or not after getting drunk based on how high you are. If you solve it then you can else it will lock your phone for 30 mins.
+
 ### Employee manager
 
 ### eReader
