@@ -155,6 +155,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Reminders app
 
+### RentIt App
+
+A simple app that allows users to rent out stuff from other users. In this way, both the persons(the one who is renting their stuff out and the one who is taking it) get's profitted. The former earns some bucks while the later get's the opprtunity to try the stuff out without actually buying it. The app developer can also create a rating system where the users who safely returned the stuff they borrwed are marked 'GREEN' while those who failed to are marked 'RED'. This way the lender can be sure that they are renting their stuff to trustworthy people. The app should also have a user to user chat system so that they can negotiate and communicate if they agree on a rentable product.
+
 ### Runkeeper
 
 ### Simple game (e.g cards or LetterPress)
