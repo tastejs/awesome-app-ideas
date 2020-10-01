@@ -165,6 +165,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Spirit Level
 
+### Sports Matchup app
+
+Let users find available players for sports such as basketball, football, badminton etc. in order to form instant matchups or impromptu games. It's a good idea for a networking and community building app.
+
 ### Stack Exchange Client
 
 ### Sticky App
