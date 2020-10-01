@@ -61,6 +61,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Docker Client
 
+### Dog Bowl
+
+Users can mark a map for stores that have an outdoor dog bowl, provide dog treats, or are just dog friendly in general.
+
 ### Employee manager
 
 ### eReader
@@ -79,6 +83,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Github notifications app
 
+### Gluten Free Food Reteraunt Locator
+
 ### Google/Chrome/Android developer video search app
 
 ### Guitar Tabs
@@ -96,6 +102,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 An app that will use device camera as input, detect a person's gestures & movements and translate them into meaningful work i.e. perform some actions based on detected hand gestures. Best use case would be using it for teaching new things to toddlers with sounds and animations. Also, it can make understanding and interaction easier with deaf-dumb people.
 
 ### Hangman
+
+### Homeless Shelter Locator
 
 ### House search app targeting family needs
 
