@@ -1,8 +1,7 @@
 # awesome-app-ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Ideas for sample projects you could create with a framework to demonstrate its approach to solving specific problems
-*Please read the [contribution guidelines](contributing.md) before contributing.*
-
+> _Please read the [contribution guidelines](contributing.md) before contributing._
 
 ## Ideas
 
@@ -11,6 +10,7 @@
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
+
 ### Book search
 
 ### BTN workouts app
@@ -50,6 +50,10 @@ Main features: information on tracks/talks (speaker bio, links to slides), sched
 ### Contacts manager
 
 ### Countdown timer / Stop watch
+
+### Country Search
+
+This app can make use of public api that show information countries around the world to create a web application allows users to view countries. It could have features such as search functionality to search for specific countries as well as filter to group countries based on specific criteria. e.g Population-range, continent and so on.
 
 ### Dashboard
 
@@ -204,14 +208,14 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 ### WhatsApp Style Messaging App
 
 ### Wine cellar (wine manager)
-A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well. 
+
+A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well.
 
 ### Working parents dinner app
 
 ### YouTube API/search client
 
 Using the YouTube API, your app should be able to take in a search string and return the videos for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if I'm not being picky and just want to listen to David Bowie, it should return any number of results that pertain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
-
 
 ## License
 
