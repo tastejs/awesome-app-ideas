@@ -212,6 +212,10 @@ A manager at a high end restaurant needs an app to help manage the restaurants c
 
 Using the YouTube API, your app should be able to take in a search string and return the videos for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if I'm not being picky and just want to listen to David Bowie, it should return any number of results that pertain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
 
+### Smart Mobile Camera app
+
+Using AI/ML and deeptech, the camera app should decide which is the best place i.e has proper lighting,where to place,can give aesthetic look,etc. in the given location and then click the best picture for us.
+
 
 ## License
 
