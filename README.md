@@ -157,6 +157,9 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Runkeeper
 
+### Safe Distance
+During the Covid19 pandemic, this Android-based application has a feature to remind us to maintain a safe distance from other people. The way this application works is by scanning the distance between gadgets using the bluetooth feature, and giving notifications when the distance is too close with other people.
+
 ### Simple game (e.g cards or LetterPress)
 
 ### Snap and share client (Camera app, share to Drive)
