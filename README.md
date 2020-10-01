@@ -6,6 +6,10 @@
 
 ## Ideas
 
+### Algorithm Guide
+
+This app will be a one stop solution to find the famously used algorithms along with their implementation all at one place.
+
 ### Arcade Shooter (Galaga etc)
 
 ### Battery status monitor
