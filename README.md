@@ -38,6 +38,8 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Code search
 
+### Code runner app - Compiles and runs codes for Python, C and C++
+
 ### Collaborative Etherpad Lite like Markdown editor
 
 ### Conference app
@@ -138,6 +140,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 ### Planning Poker Cards
 
 ### Podcast player
+
+### Poll Taker
+
+Takes a poll from the users of the app. Any user can generate a poll which can be voted upon by other users which are using the App. The polls will be visible on in a list form and sorted from most voted upon to least. It may have a button allowing to sort from least to most votes also. On clicking on a specific poll the user should be able to see the statistics of the poll results of how many people have votes for what. For privacy the user's name who voted for a specific thing will not be disclosed. The poll should also have a time limit after which no vote will be accepted.  
 
 ### Pomodoro App
 
