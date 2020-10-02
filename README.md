@@ -161,6 +161,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Snap and share client (Camera app, share to Drive)
 
+### Social Cycle - An all in one bicylce Renting and socializing app for students.
+
+Using NFC enabled smartphones and NFC tags, the process of Selecting Cycles can be streamlined. We are calling this feature 'AirSelect'. Socializing features includes: Refer Friends to join and earn points. Compete with Friends for the most points. Earn points by cycling.
+
 ### Speed Test app
 
 ### Spirit Level
