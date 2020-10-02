@@ -197,6 +197,10 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 
 ### Vine
 
+### Video To Audio Converter Application
+
+An Application to convert video files into mp3 audio files. As a heavy listener of music, I prefer keeping audio files on my phone than video files to consume less disk space. This tool or Application will help in converting the video files present in my computer or Android to mp3 audio files.
+
 ### Weather app
 
 ### What’s near me? (Google Maps API)
@@ -204,7 +208,7 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 ### WhatsApp Style Messaging App
 
 ### Wine cellar (wine manager)
-A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well. 
+A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well.
 
 ### Working parents dinner app
 
