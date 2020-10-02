@@ -165,6 +165,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Spirit Level
 
+### SportsWearer
+
+An app that allows the user to shop the various sports apparel and they can also search for the items by scanning the items. It lays emphasis on the use of trending AR Technology.
+
 ### Stack Exchange Client
 
 ### Sticky App
