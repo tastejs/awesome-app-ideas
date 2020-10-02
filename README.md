@@ -109,6 +109,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Mail client
 
+### Medicine Tracker
+Lets you schedule reminders for every Medication you take. Sends reminders when scheduled. Registers if medicines are taken on time. Sends automatic reminders to refill prescriptions. Connects to the nearest pharmacy. Gives detailed information of drugs.
+
+
 ### Movie Reviews
 
 ### Movies / IMDB search
