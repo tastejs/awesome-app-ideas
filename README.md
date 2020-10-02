@@ -11,6 +11,11 @@
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
+
+### Bill splitting app
+
+This app should allow a group of users to keep track of bills with breakdown of item cost and who have paid for the bill upfront. Users can then split the cost of each item among all of them or a subset of them. Use cases include housemates sharing groceries and utilities, friends sharing expenses of trips, colleagues sharing costs of organizing parties, etc. To make the app more useful, optical character recognition (OCR) functionality may be included, in which users can just take pictures of bill instead of having to manually entering the details.   
+
 ### Book search
 
 ### BTN workouts app
