@@ -1,0 +1,6 @@
+goFish will be a card game played with 2-6 player.The game objective will be to create set of 4 cards of same ranks eg. 4 jacks,4 10s,4 kings by swaping.
+RULES
+initially every player will start with 5 cards each,player 1's turn
+for swaping player1 will ask for a card to another player ,if other player will have that card ,player 1 will get the card and will continue to ask for other cards till he made a mistake in guessing
+in case if player 1 asked for a card which is not with other player ,goFISH happens and a new card will be added to his set from deck and turn goes to next player
+the one who will make most no. of sets will win
