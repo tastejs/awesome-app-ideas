@@ -38,6 +38,8 @@ Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Code search
 
+### Code runner app - Compiles and runs codes for Python, C and C++
+
 ### Collaborative Etherpad Lite like Markdown editor
 
 ### Conference app
