@@ -213,6 +213,10 @@ A manager at a high end restaurant needs an app to help manage the restaurants c
 Using the YouTube API, your app should be able to take in a search string and return the videos for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if I'm not being picky and just want to listen to David Bowie, it should return any number of results that pertain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
 
 
+### Brand Identification App
+
+Using Google lens or any similar service or your own computer vision algorithm built in, it would be possible for users to scan objects to gain information on it. The app can identify the object and provide online links to it. But primary focus is to identify the brand and redirect the user to the brand's official website/store.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
