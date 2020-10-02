@@ -97,6 +97,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Hangman
 
+### Health Traker App
+ 
+An application which can measure your pulse, heart rate, track number of steps taken, calculate amount of oxygen in your blood, measure body temperature, calculate the sleep duration, sugar rate etc.
+
 ### House search app targeting family needs
 
 ### Instagram client
