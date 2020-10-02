@@ -5,7 +5,8 @@
 
 
 ## Ideas
-
+### Attendence manager for teachers and students
+To keep a track of their attendence for teachers and students.
 ### Arcade Shooter (Galaga etc)
 
 ### Battery status monitor
@@ -14,6 +15,10 @@
 ### Book search
 
 ### BTN workouts app
+
+### Browser
+
+A simple browser with less feat.
 
 ### Calculator
 
@@ -57,6 +62,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Dedicated Compass
 
+### Devotion App of any religion
+
+A devotional app containing some prayers of any religion and in any language
+
 ### Diet tracker
 
 ### Docker Client
@@ -66,6 +75,9 @@ This app should resemble an HR type dashboard where a user can login and view in
 ### eReader
 
 ### Fantasy football
+### FB client
+
+A simple fb client
 
 ### File sharing app
 
@@ -96,7 +108,7 @@ This app should resemble an HR type dashboard where a user can login and view in
 An app that will use device camera as input, detect a person's gestures & movements and translate them into meaningful work i.e. perform some actions based on detected hand gestures. Best use case would be using it for teaching new things to toddlers with sounds and animations. Also, it can make understanding and interaction easier with deaf-dumb people.
 
 ### Hangman
-
+### Health app
 ### House search app targeting family needs
 
 ### Instagram client
@@ -126,7 +138,7 @@ An app that will use device camera as input, detect a person's gestures & moveme
 ### Pedometer
 
 ### Photo booth
-
+### photo viewer
 ### Photo Cropper
 
 ### Photo sharing app
@@ -175,12 +187,14 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 Let the user register his location and then give reports showing which beaches are the best to surf in the next days. It's a good oportunity to use weather API's for something more specific.
 
+### Telegram client
+
 ### Tic-tac-toe
 
 ### Timetable app
 
 ### ToDo List (Classic)
-
+### Torrent Downloader
 ### Travel app
 
 ### Trello API client
