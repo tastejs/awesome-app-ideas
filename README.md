@@ -97,6 +97,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Hangman
 
+### Homeless / Abuse / LGBTQ resources
+
+This app could have a number of resources for the homeless population, LGBTQ people, or victims of abuse / assault. It could include mental health resources, shelters, free meals etc. 
+
 ### House search app targeting family needs
 
 ### Instagram client
