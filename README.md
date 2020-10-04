@@ -109,6 +109,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Mail client
 
+### Missing Person app
+
+an app that halp anyone that have problem with missing person they know or they want to help, for reach more attention to anyone, and have open data and transparant. 
+
 ### Movie Reviews
 
 ### Movies / IMDB search
