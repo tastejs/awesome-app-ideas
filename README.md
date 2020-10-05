@@ -165,6 +165,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Spirit Level
 
+### App for getting teacher for tuition ( Location wise )
+
 ### Stack Exchange Client
 
 ### Sticky App
