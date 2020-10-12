@@ -1,4 +1,4 @@
-# awesome-app-ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# awesome-app-ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Ideas for sample projects you could create with a framework to demonstrate its approach to solving specific problems
 *Please read the [contribution guidelines](contributing.md) before contributing.*
@@ -122,6 +122,13 @@ An app that will use device camera as input, detect a person's gestures & moveme
 ### Note taking app
 
 ### Offline book reader
+
+### Outfit of the day
+
+
+
+An app that stores the clothes of the user and suggest a new outfit to wear for the day.
+
 
 ### Pedometer
 
