@@ -159,6 +159,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Simple game (e.g cards or LetterPress)
 
+### ReadSlackBot
+
+A Slack bot that uses AI to "read" Slack for you, and draw attention to messages that you should probably pay attention to. AI will be seeded based with information such as topics and people that are important. AI will learn as you engage with Slack, to better understand what's actually important to you.
+
 ### Snap and share client (Camera app, share to Drive)
 
 ### Speed Test app
