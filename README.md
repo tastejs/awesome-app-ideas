@@ -63,6 +63,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Employee manager
 
+### EmojiSlackBot
+
+An AI that will simply add emoji (e.g. 'like', 'eyes') to messages as other people do. So you don't have to go through the chore of adding emoji every time a coworker does something.
+
 ### eReader
 
 ### Fantasy football
