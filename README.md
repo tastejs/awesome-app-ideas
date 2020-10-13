@@ -197,6 +197,10 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 
 ### Vine
 
+### WatchYourGmail
+
+An Apple Watch app plus accompanying Gmail extension that makes accessible full content of your Gmail on Apple Watch. In contrast to other email apps, this is super lightweight, and made for use w/ Gmail specifcally.
+
 ### Weather app
 
 ### What’s near me? (Google Maps API)
