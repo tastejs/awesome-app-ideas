@@ -109,6 +109,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Mail client
 
+### MeetOnTV
+
+Roku/Apple TV/Fire TV/Chrome apps to be able to use any of the popular meeting services (Zoom, GMeet, MS Teams) on a television. Maybe use your phone as camera with iOS/Android apps. There's gotta be something better than the current crappy situation.
+
 ### Movie Reviews
 
 ### Movies / IMDB search
