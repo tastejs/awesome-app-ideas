@@ -6,6 +6,9 @@
 
 ## Ideas
 
+### Psychologists Onfield
+This app allows psychologists connect to the patients and let them help from anywhere in the world 
+
 ### Arcade Shooter (Galaga etc)
 
 ### Battery status monitor
