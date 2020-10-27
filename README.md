@@ -77,6 +77,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### GitHub API client
 
+### Github issue tracking app
+
 ### Github notifications app
 
 ### Google/Chrome/Android developer video search app
