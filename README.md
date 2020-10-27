@@ -101,6 +101,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Instagram client
 
+### Intelligent alarm
+
+This app will serve more features that traditional alarm clock. In here alarm can be set to activate in specific location i.e. If you are travelling in a public transport you can keep a alarm to activate when destination is near. 
+
 ### Kanban board
 
 ### Kids' milestones tracker
