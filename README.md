@@ -109,6 +109,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Mail client
 
+### Medicine Tracker
+
+An app that reminds you to take your medicine 
+
 ### Movie Reviews
 
 ### Movies / IMDB search
