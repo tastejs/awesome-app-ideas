@@ -6,9 +6,9 @@
 
 ## Ideas
 
-### Arcade Shooter (Galaga etc)
+## Automate Shower app
 
-### Battery status monitor
+## Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
 ### Book search
