@@ -6,6 +6,10 @@
 
 ## Ideas
 
+### 30 seconds of processing
+
+This apps lets your CPU be used for 30 seconds or less to perform some computation. The idea is to allow solving for computationally heavy problems in a distributed fashion. The app can be gamified where users gets points for daily check-ins. Could also include a monetary incentive in the future.
+
 ### Arcade Shooter (Galaga etc)
 
 ### Battery status monitor
