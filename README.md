@@ -67,6 +67,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Fantasy football
 
+Script that can source all historical trends of a specific player against the team they are versing that week. Script will collate variables such as homefield advatange, player health, player form, team form, weather conditions, time of game and many other variables. Variables will be plugged into some formula that will spit out a number that dictates whether the said player should start during that fantasy week.
+
 ### File sharing app
 
 ### Flashlight
