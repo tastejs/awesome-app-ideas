@@ -155,6 +155,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Reminders app
 
+### Roomate app
+
+And app for roomates to download in order to have a shared space for needed groceries, chores, schedules, and etc.
+
 ### Runkeeper
 
 ### Simple game (e.g cards or LetterPress)
