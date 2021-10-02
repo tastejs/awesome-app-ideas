@@ -3,7 +3,9 @@
 > Ideas for sample projects you could create with a framework to demonstrate its approach to solving specific problems
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+### An app where you can take a pic of your junk and it shows you what Pinterest projects you can make with it
 
+### An app that connects you to someone in the world who is interested in learning your language and vice versa
 ## Ideas
 
 ### Arcade Shooter (Galaga etc)
