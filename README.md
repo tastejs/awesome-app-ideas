@@ -95,6 +95,11 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 An app that will use device camera as input, detect a person's gestures & movements and translate them into meaningful work i.e. perform some actions based on detected hand gestures. Best use case would be using it for teaching new things to toddlers with sounds and animations. Also, it can make understanding and interaction easier with deaf-dumb people.
 
+
+### Handstand seconds counter 
+
+An app that will be able to count the duration of the handstand done by an individual. This would be carried out through computer vision. The phone's camera will be used for this. The AI model of the app will be fed videos of people doing handstand, and it will compare it to the video captured by the camera, to detect that the user has entered the handstand. Then the no. of seconds will be counted that the person exits the shape of a handstand. The AI of the app will establish a stick figure of a handstand, and will compare it to the user's shape and determine if it's a handstand or not. This app will be helpful to people doing all levels of handstands, to count the no. seconds they accumulated in their workout session. This app be be then made in collaboration with another workout app, like trybe etc.
+
 ### Hangman
 
 ### House search app targeting family needs
