@@ -71,6 +71,9 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Flashlight
 
+### FlightTracker 
+Also should let you know when flights are expected to be boarding and when they should depart
+
 ### Gallery or Portfolio app
 
 ### Gift app (find gifts for friends)
