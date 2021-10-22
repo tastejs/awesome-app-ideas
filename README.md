@@ -199,6 +199,12 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 
 ### Weather app
 
+
+### Exchange app
+
+A mobile which can be used to exchange items like books, games(PS4, Xbox), toys and etc.
+These items are only one time usable. Once the user finished reading a book, he can share it in the app with its genre, value, location and other remarkable things for exchanging with other user. This idea is applicable for other items also.
+
 ### What’s near me? (Google Maps API)
 
 ### WhatsApp Style Messaging App
