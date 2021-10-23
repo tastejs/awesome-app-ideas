@@ -73,6 +73,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Gallery or Portfolio app
 
+### Goal app
+
+This app would help you to achive a goal.  For example, you are looking to do 20 pushups a day for a month. You would be able to put the number of actions (20), the duration (one month) and the frequency of the actions (daily). 
+
 ### Gift app (find gifts for friends)
 
 ### GitHub API client
