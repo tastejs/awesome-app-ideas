@@ -6,6 +6,7 @@
 
 ## Ideas
 
+### 2048 game
 ### Arcade Shooter (Galaga etc)
 
 ### Battery status monitor
@@ -50,6 +51,8 @@ Main features: information on tracks/talks (speaker bio, links to slides), sched
 ### Contacts manager
 
 ### Countdown timer / Stop watch
+
+### Dating app (tinder)
 
 ### Dashboard
 
