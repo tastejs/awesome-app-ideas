@@ -63,6 +63,7 @@ This app should track your diet and notify you of neccesary changes to be made t
 ### Docker Client
 
 ### Employee manager
+this app should be able to manage the employees on a payroll
 
 ### eReader
 
