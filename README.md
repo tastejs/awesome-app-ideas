@@ -101,6 +101,9 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Instagram client
 
+### Random joke generator
+A app/website that will give a random joke or jokes. This project can utilize api's such as https://jokeapi.dev/ or a database.
+
 ### Kanban board
 
 ### Kids' milestones tracker
