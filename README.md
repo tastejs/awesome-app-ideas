@@ -199,6 +199,10 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 
 ### Weather app
 
+### What's above me?
+An app that allows users to point their cameras into the sky and know if an object is a sta/ planet/ etc.
+Maybe also shows how many flights are above you (in maybe a 20 km range) at any time.
+
 ### What’s near me? (Google Maps API)
 
 ### WhatsApp Style Messaging App
