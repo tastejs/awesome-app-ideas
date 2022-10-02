@@ -187,6 +187,10 @@ Let the user register his location and then give reports showing which beaches a
 
 ### Tunes / Music finder / player
 
+### Twinkle
+
+An intuitive app that scans the night sky via the phone's camera and GPS and gives back information about individual stars, constellations and trivia about them. Also lets you save your favorite stars and/or constellations.
+
 ### Twitter client
 
 ### Typing test
