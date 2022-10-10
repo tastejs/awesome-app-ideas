@@ -109,6 +109,11 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Mail client
 
+### Money Lending and Subscribtion Management app
+
+An app to keep track of all your current subscribtions and bills and alert you when the time is coming to renew the subscribtion. Also allows you to manage
+and keep track of who owes you money and who you owe money to. Shows how much is due from who, and when it is due. May also show added interest.
+
 ### Movie Reviews
 
 ### Movies / IMDB search
