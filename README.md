@@ -149,6 +149,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Quotes app
 
+### Restaurant Randomizer app
+
+For those indecisive people who have a hard time deciding where to eat. This would be a mobile application that will randomly select a place to eat based on your custom inputs like type of food and distance radius.
+
 ### Recipes app
 
 ### Reddit client
