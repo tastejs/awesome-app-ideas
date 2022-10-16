@@ -123,6 +123,8 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Offline book reader
 
+### Parental Leave Calculator - Determine optimal parental leave split using employer benefits and salary as inputs.
+
 ### Pedometer
 
 ### Photo booth
