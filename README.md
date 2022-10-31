@@ -212,6 +212,9 @@ A manager at a high end restaurant needs an app to help manage the restaurants c
 
 Using the YouTube API, your app should be able to take in a search string and return the videos for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if I'm not being picky and just want to listen to David Bowie, it should return any number of results that pertain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
 
+### Expense Tracker 
+
+An app to track expenses and set goals. Option to connect it to bank or third party payment apps to keep a track of your expenses. Categorizing expenses and showing how well the user is keeping up with their goals.
 
 ## License
 
