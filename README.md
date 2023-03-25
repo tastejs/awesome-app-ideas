@@ -11,6 +11,9 @@
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
+
+### Beauty and Cosmetics Suggesting App
+
 ### Book search
 
 ### BTN workouts app
@@ -101,6 +104,8 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Instagram client
 
+### Journal App
+
 ### Kanban board
 
 ### Kids' milestones tracker
@@ -175,6 +180,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 Let the user register his location and then give reports showing which beaches are the best to surf in the next days. It's a good oportunity to use weather API's for something more specific.
 
+### Table Reservation App
+
 ### Tic-tac-toe
 
 ### Timetable app
@@ -198,6 +205,8 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 ### Vine
 
 ### Weather app
+
+### Wikipedia App
 
 ### What’s near me? (Google Maps API)
 
