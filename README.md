@@ -163,6 +163,8 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Speed Test app
 
+### Speech to Text app
+
 ### Spirit Level
 
 ### Stack Exchange Client
