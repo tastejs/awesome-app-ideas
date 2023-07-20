@@ -123,6 +123,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Offline book reader
 
+### Open my Apps
+
+An app to automatically open one or more apps when Windows starts. You can set a timer between each app to avoid overloading the startup process (i.e., wait 5 seconds between each app before opening the next one).
+
 ### Pedometer
 
 ### Photo booth
