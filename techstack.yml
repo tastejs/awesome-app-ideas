@@ -1,0 +1,20 @@
+repo_name: Chizzoz/awesome-app-ideas
+report_id: 0d1d34efe5f68962bf6888368d5f2ebf
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-11T17:02:59+00:00'
+requested_by: Chizzoz
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Chizzoz/awesome-app-ideas
+  detection_source: Repo Metadata
